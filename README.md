@@ -1,6 +1,5 @@
 # HR-Analytics_-Power-BI-Dashboard
-
-Based on the HR Analytics Attrition Dashboard here are some valuable insights:
+• HR Analytics Attrition Dashboard here are some valuable insights:
 
 •	Attrition Rate: The current rate is 16.1%, which could be a critical metric for assessing employee retention strategies.
 
